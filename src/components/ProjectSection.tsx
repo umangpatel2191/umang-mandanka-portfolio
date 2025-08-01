@@ -50,8 +50,8 @@ const projects: Project[] = [
     description: truncateDescription(`A Retrieval Augmented Generation chatbot for Code Theorem agency, leveraging Qdrant, HuggingFace, and Gemini LLM.\n\nModern Node.js stack, beautiful frontend, and modular backend for rapid innovation.\n\n**Purpose:** Node.js chatbot with RAG (Retrieval Augmented Generation), serving intelligent, context-aware answers.\n**Tech Stack:** Node.js, Express, Qdrant, HuggingFace Transformers, Gemini API, Tailwind CSS, Vanilla JS.\n**Frontend:** Modern floating chat UI with smooth animations and custom fonts.\n**Backend:** Modular scripts for embeddings, vector search, and LLM calls.`),
     image: ctChatbotImg,
     tags: ["Qdrant", "Gemini LLM", "Node.js", "HuggingFace", "Tailwind CSS", "Vanilla JS", "Express"],
-    liveUrl: "#", // Update if live demo is available
-    githubUrl: "#", // Update if repo is available
+    liveUrl: "https://github.com/umangpatel2191", // Update if live demo is available
+    githubUrl: "https://github.com/umangpatel2191", // Update if repo is available
     longDescription: `A Retrieval Augmented Generation chatbot for Code Theorem agency, leveraging Qdrant, HuggingFace, and Gemini LLM.\n\nModern Node.js stack, beautiful frontend, and modular backend for rapid innovation.\n\n**Purpose:** Node.js chatbot with RAG (Retrieval Augmented Generation), serving intelligent, context-aware answers.\n**Tech Stack:** Node.js, Express, Qdrant, HuggingFace Transformers, Gemini API, Tailwind CSS, Vanilla JS.\n**Frontend:** Modern floating chat UI with smooth animations and custom fonts.\n**Backend:** Modular scripts for embeddings, vector search, and LLM calls.`
   },
 
@@ -62,8 +62,8 @@ const projects: Project[] = [
     description: truncateDescription(`HR_BOT is an intelligent chatbot that answers employee HR queries using your company's HR manual, powered by:\n- Qdrant: Vector search capabilities\n- Gemini LLM: Answer generation\n- HuggingFace: Text embeddings\n- Modern Web UI: Responsive chat interface.`),
     image: hrbotImg,
     tags: ["Qdrant", "Gemini LLM", "Node.js", "HuggingFace", "Tailwind CSS", "Vanilla JS", "Express"],
-    liveUrl: "#",
-    githubUrl: "#",
+    liveUrl: "https://github.com/umangpatel2191",
+    githubUrl: "https://github.com/umangpatel2191",
     longDescription: `HR_BOT is an intelligent chatbot that answers employee HR queries using your company's HR manual, powered by:\n- Qdrant: Vector search capabilities\n- Gemini LLM: Answer generation\n- HuggingFace: Text embeddings\n- Modern Web UI: Responsive chat interface.`
   },
   // Doctor Portfolio Platform
@@ -73,8 +73,8 @@ const projects: Project[] = [
     description: truncateDescription(`• Built a fully responsive SPA for healthcare professional portfolios\n• Used grid/flexbox with media queries for seamless cross-device compatibility\n• Created interactive components like sliders, FAQs, and mobile menus\n• Ensured semantic HTML, accessibility, and optimized performance`),
     image: expertImg,
     tags: ["HTML5", "CSS3", "Tailwind CSS", "JavaScript", "Google Fonts", "Font Awesome"],
-    liveUrl: "#",
-    githubUrl: "#",
+    liveUrl: "https://github.com/umangpatel2191",
+    githubUrl: "https://github.com/umangpatel2191",
     longDescription: `• Built a fully responsive SPA for healthcare professional portfolios\n• Used grid/flexbox with media queries for seamless cross-device compatibility\n• Created interactive components like sliders, FAQs, and mobile menus\n• Ensured semantic HTML, accessibility, and optimized performance`
   },
   // E-Commerce Platform
@@ -84,8 +84,8 @@ const projects: Project[] = [
     description: truncateDescription(`• Developed a modern e-commerce frontend for EV parts using SPA-like architecture\n• Designed dynamic product displays, cart systems, and interactive modals for user engagement\n• Built a fully responsive UI with Tailwind CSS for cross-device compatibility\n• Used Google Fonts and Font Awesome for polished typography and iconography`),
     image: evpartsImg,
     tags: ["HTML5", "CSS3", "Tailwind CSS", "JavaScript", "Font Awesome"],
-    liveUrl: "#",
-    githubUrl: "#",
+    liveUrl: "https://github.com/umangpatel2191",
+    githubUrl: "https://github.com/umangpatel2191",
     longDescription: `• Developed a modern e-commerce frontend for EV parts using SPA-like architecture\n• Designed dynamic product displays, cart systems, and interactive modals for user engagement\n• Built a fully responsive UI with Tailwind CSS for cross-device compatibility\n• Used Google Fonts and Font Awesome for polished typography and iconography`
   },
   // Cleanhouse Service Booking Platform
@@ -95,8 +95,8 @@ const projects: Project[] = [
     description: truncateDescription(`• Collaborated in a cross-functional team of three to build a comprehensive household service booking platform\n• Designed and developed a full-stack solution, achieving a 90% improvement in user workflow efficiency\n• Enhanced service discovery by 30% through intuitive category-based navigation and smart search functionality`),
     image: laundryImg,
     tags: ["HTML5", "CSS3", "JavaScript", "MySQL", "PHP"],
-    liveUrl: "#",
-    githubUrl: "#",
+    liveUrl: "https://github.com/umangpatel2191",
+    githubUrl: "https://github.com/umangpatel2191",
     longDescription: `• Collaborated in a cross-functional team of three to build a comprehensive household service booking platform\n• Designed and developed a full-stack solution, achieving a 90% improvement in user workflow efficiency\n• Enhanced service discovery by 30% through intuitive category-based navigation and smart search functionality`
   },
 
