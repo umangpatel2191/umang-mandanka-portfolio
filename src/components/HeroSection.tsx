@@ -121,7 +121,7 @@ const HeroSection = () => {
   }, []);
 
   return (
-    <section id="home" ref={heroRef} className="min-h-screen flex flex-col justify-center relative overflow-hidden bg-black font-display">
+    <section id="home" ref={heroRef} className="min-h-screen flex flex-col justify-center relative overflow-hidden bg-black font-display pt-15p-920">
 
       {/* Main content area */}
       <div className="container mx-auto px-4 relative z-10">
